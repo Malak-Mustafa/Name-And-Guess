@@ -1,0 +1,20 @@
+.gender{
+    display: flex;
+    gap: 1rem
+}
+.age{
+    display: flex;
+    gap: 1rem
+}
+.countries{
+    display: flex;
+    gap: 1rem
+}
+.counCon{
+    
+}
+.flag{
+    width: 12rem;
+    height: 8rem;
+    padding: 1rem;
+}
